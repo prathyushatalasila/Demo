@@ -1,2 +1,0 @@
-# prathyushatalasila
-Learning Azure
